@@ -11,15 +11,6 @@ A plugin assign project to different employee and manage credit, notification,em
 
 == Description ==
 
-
-== Installation ==
-
-1. Upload `plugin-name` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-
-
-== Screenshots ==
-
 1. Install and activate this plugin like the image below
 screenshot-1
 2. After activation , there will be a task panel found in admin panel who has the "administrator" role 
@@ -31,6 +22,20 @@ screenshot-3
 screenshot-5
 5. In "Task submitted" section, admin will be able to see who have and have not submitted the task and who have faild the deadline
 screenshot-6
+
+== Installation ==
+
+1. Upload `plugin-name` to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+
+
+== Screenshots ==
+
+1. screenshot-1
+2. screenshot-2
+3. screenshot-3
+4. screenshot-5
+5. screenshot-6
 
 == Changelog ==
 
