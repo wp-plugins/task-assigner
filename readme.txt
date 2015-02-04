@@ -20,11 +20,17 @@ A plugin assign project to different employee and manage credit, notification,em
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. Install and activate this plugin like the image below
+screenshot-1
+2. After activation , there will be a task panel found in admin panel who has the "administrator" role 
+screenshot-2
+3. Admin with the administrator role can create task for his/her employee(s) and assign that task to different user whoever he would like to (section 1 in screenshot),
+He can set the credit for that task (section 2 in the screenshot), can assign the time that the task must be completed by (section 3 in screenshot)
+screenshot-3
+4. In "User credit" , admin can set the total credit for his employee(s), this credit(s) is the credit reserved for each employee.  If any employee can finish the task in time, the task credit will be added to correspondet to that user. And if the employee fails, the task credit will be subtracted from this total credit(s)
+screenshot-5
+5. In "Task submitted" section, admin will be able to see who have and have not submitted the task and who have faild the deadline
+screenshot-6
 
 == Changelog ==
 
